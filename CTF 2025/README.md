@@ -45,7 +45,7 @@ Most writeups include **screenshots**, **binary analysis**, and clean **Python +
 
 | Challenge       | Description              | Writeup       |
 |------------------|--------------------------|---------------|
-| **Party Time!**  |                          | (coming soon) |
+| **Party Time!**  | EXIF OSINT | [→ Read](./osint/Party%20Time/) |
 
 ## Misc Challenges 🧩
 
