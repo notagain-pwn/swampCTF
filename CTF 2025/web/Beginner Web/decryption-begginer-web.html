@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+</head>
+<body>
+  <script>
+    const key = "flagPart2_3";
+    const encryptedPart2 = "U2FsdGVkX1/oCOrv2BF34XQbx7f34cYJ8aA71tr8cl8";
+    const encryptedPart3 = "U2FsdGVkX197aFEtB5VUIBcswkWs4GiFPal6425rsTU";
+
+    const part2 = CryptoJS.AES.decrypt(encryptedPart2, key).toString(CryptoJS.enc.Utf8);
+    const part3 = CryptoJS.AES.decrypt(encryptedPart3, key).toString(CryptoJS.enc.Utf8);
+
+    const flag = `swampCTF{w3b_${part2}_${part3}}`;
+    console.log("[+] Flag:", flag);
+    document.body.innerText = flag;
+  </script>
+</body>
+</html>
