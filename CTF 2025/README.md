@@ -28,6 +28,7 @@ Most writeups include **screenshots**, **binary analysis**, and clean **Python +
 | Challenge        | Description                          | Writeup                                                  |
 |------------------|--------------------------------------|-----------------------------------------------------------|
 | **Beginner Pwn 1** | Classic Stack Corruption via Overflow | [→ Read](./pwn/Beginner%20Pwn%201/)               |
+| **Beginner Pwn 2** | Classic ret2win via Overflow | [→ Read](./pwn/Beginner%20Pwn%202/)               |
 | **Oh My Buffer** | Canary leak + ret2win via stack leak | [→ Read](./pwn/Oh%20My%20Buffer/)               |
 
 ## Web Challenges 🌐
