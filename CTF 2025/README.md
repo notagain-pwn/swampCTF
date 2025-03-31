@@ -19,7 +19,7 @@ Most writeups include **screenshots**, **binary analysis**, and clean **Python +
 
 - [Pwn Challenges 🏹](#pwn-challenges-)
 - [Web Challenges 🌐](#web-challenges-)
-- [OSINT Challenges 🕵️](#osint-challenges-)
+- [OSINT Challenges 🕵️](#osint-challenges-%EF%B8%8F)
 - [Misc Challenges 🧩](#misc-challenges-)
 - [Scoreboard Screenshots 📸](#scoreboard-screenshots-)
 
