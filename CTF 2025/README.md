@@ -51,7 +51,7 @@ Most writeups include **screenshots**, **binary analysis**, and clean **Python +
 
 | Challenge                          | Description         | Writeup       |
 |-----------------------------------|---------------------|---------------|
-| **Pretty Picture: Double Exposure** |                     | (coming soon) |
+| **Pretty Picture: Double Exposure** | Double Exposure | [→ Read](./misc/Pretty%20Picture/) |
 
 ## Scoreboard Screenshots 📸
 
