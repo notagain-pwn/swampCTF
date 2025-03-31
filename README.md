@@ -43,6 +43,7 @@ swampCTF/
 ## ✍️ Available Writeups
 
 📁 Head over to the [CTF 2025](./CTF%202025/) folder for all my detailed challenge writeups.  
+
 Includes screenshots, binary analysis, and exploits using **Python + pwntools**.
 
 ## 🔙 Related Links
@@ -54,4 +55,4 @@ Includes screenshots, binary analysis, and exploits using **Python + pwntools**.
 
 Happy pwning 🐊
 
-🔙 [Back](../)
+🔙 [Back](../../)
