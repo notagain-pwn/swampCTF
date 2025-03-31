@@ -60,4 +60,4 @@ Most writeups include **screenshots**, **binary analysis**, and clean **Python +
 - 🥈 Rank: **60nd** 
 - 🧩 Points: **2686**
 
-🔙 [Back](../../)
+🔙 [Back](../../../../)
