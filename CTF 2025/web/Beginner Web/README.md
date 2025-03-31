@@ -25,7 +25,7 @@ tags: [CTF, web, javascript, browser, AES, crypto, source inspection]
 - [Source Code Inspection 🔍](#source-code-inspection-)
 - [Finding the Encrypted Data 🔐](#finding-the-encrypted-data-)
 - [Decrypting with CryptoJS 🔓](#decrypting-with-cryptojs-)
-- [Final Flag 🏁](#final-flag-🏁)
+- [Final Flag 🏁](#final-flag-)
 - [Conclusion 🧠](#conclusion-)
 
 ## Challenge Overview 📦
