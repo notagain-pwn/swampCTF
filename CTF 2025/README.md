@@ -36,7 +36,7 @@ Most writeups include **screenshots**, **binary analysis**, and clean **Python +
 | Challenge               | Description                    | Writeup       |
 |-------------------------|--------------------------------|---------------|
 | **MaybeHappyEndingGPT** |                                | (coming soon) |
-| **Sunset Boulevard**     |                                | (coming soon) |
+| **Sunset Boulevard**     | XSS to Admin Pwnage | [→ Read](./web/Sunset%20Boulevard/) |
 | **Beginner Web**         | AES Decryption | [→ Read](./web/Beginner%20Web/) |
 | **Hidden Message-Board** | React DOM Injection | [→ Read](./web/Hidden%20Message%20Board/) |
 | **Serialies**            | Java Deserialization & File Read | [→ Read](./web/Serialies/) |
