@@ -35,7 +35,7 @@ Most writeups include **screenshots**, **binary analysis**, and clean **Python +
 
 | Challenge               | Description                    | Writeup       |
 |-------------------------|--------------------------------|---------------|
-| **MaybeHappyEndingGPT** |                                | (coming soon) |
+| **MaybeHappyEndingGPT** | Prompt Injection to RCE | [→ Read](./web/MaybeHappyEndingGPT/) |
 | **Sunset Boulevard**     | XSS to Admin Pwnage | [→ Read](./web/Sunset%20Boulevard/) |
 | **Beginner Web**         | AES Decryption | [→ Read](./web/Beginner%20Web/) |
 | **Hidden Message-Board** | React DOM Injection | [→ Read](./web/Hidden%20Message%20Board/) |
