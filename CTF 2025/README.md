@@ -38,7 +38,7 @@ Most writeups include **screenshots**, **binary analysis**, and clean **Python +
 | **MaybeHappyEndingGPT** |                                | (coming soon) |
 | **Sunset Boulevard**     |                                | (coming soon) |
 | **Beginner Web**         |                                | (coming soon) |
-| **Hidden Message-Board** | React DOM Injection | [→ Read](./web/Hidden%20/Message%20Board/) |
+| **Hidden Message-Board** | React DOM Injection | [→ Read](./web/Hidden%20Message%20Board/) |
 | **Serialies**            | Java Deserialization & File Read | [→ Read](./web/Serialies/) |
 
 ## OSINT Challenges 🕵️
