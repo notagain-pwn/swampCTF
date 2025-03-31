@@ -37,7 +37,7 @@ Most writeups include **screenshots**, **binary analysis**, and clean **Python +
 |-------------------------|--------------------------------|---------------|
 | **MaybeHappyEndingGPT** |                                | (coming soon) |
 | **Sunset Boulevard**     |                                | (coming soon) |
-| **Beginner Web**         |                                | (coming soon) |
+| **Beginner Web**         | AES Decryption | [→ Read](./web/Beginner%20Web/) |
 | **Hidden Message-Board** | React DOM Injection | [→ Read](./web/Hidden%20Message%20Board/) |
 | **Serialies**            | Java Deserialization & File Read | [→ Read](./web/Serialies/) |
 
