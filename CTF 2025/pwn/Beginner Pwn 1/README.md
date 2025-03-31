@@ -17,7 +17,7 @@ This challenge is a perfect illustration of how overflowing a local buffer on th
 
 ## 📚 Table of Contents
 
-- [Initial Analysis 🕵️](#initial-analysis-)
+- [Initial Analysis 🕵️](#initial-analysis-%EF%B8%8F)
 - [The Vulnerability 💣](#the-vulnerability-)
 - [Stack Layout Breakdown 📐](#stack-layout-breakdown-)
 - [Exploitation 💥](#exploitation-)
