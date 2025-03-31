@@ -6,7 +6,7 @@ tags: [CTF, web, javascript, browser, AES, crypto, source inspection]
 # Beginner Web 🌐
 
 ![Difficulty](https://img.shields.io/badge/difficulty-Easy-blue)
-![Category](https://img.shields.io/badge/category-Web-orange)
+![Category](https://img.shields.io/badge/category-Web-blue)
 ![CTF](https://img.shields.io/badge/Event-SwampCTF%202025-purple)
 ![JS](https://img.shields.io/badge/Javascript-✔️-brightgreen)
 ![AES](https://img.shields.io/badge/AES-Decryption-success)
