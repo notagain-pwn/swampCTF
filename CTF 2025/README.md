@@ -23,11 +23,12 @@ Most writeups include **screenshots**, **binary analysis**, and clean **Python +
 - [Misc Challenges 🧩](#misc-challenges-)
 - [Scoreboard Screenshots 📸](#scoreboard-screenshots-)
 
-## Pwn Challenges 🏹
+## Pwn Challenges 🏹 
 
 | Challenge        | Description                          | Writeup                                                  |
 |------------------|--------------------------------------|-----------------------------------------------------------|
-| **Oh My Buffer** | Canary leak + ret2win via stack leak | [→ Read](./pwn/Oh%20My%20Buffer/README.md)               |
+| **Beginner Pwn 1** | Classic Stack Corruption via Overflow | [→ Read](./pwn/Beginner%20Pwn%201/)               |
+| **Oh My Buffer** | Canary leak + ret2win via stack leak | [→ Read](./pwn/Oh%20My%20Buffer/)               |
 
 ## Web Challenges 🌐
 
