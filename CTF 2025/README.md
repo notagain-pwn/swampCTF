@@ -39,7 +39,7 @@ Most writeups include **screenshots**, **binary analysis**, and clean **Python +
 | **Sunset Boulevard**     |                                | (coming soon) |
 | **Beginner Web**         |                                | (coming soon) |
 | **Hidden Message-Board** |                                | (coming soon) |
-| **Serialies**            |                                | (coming soon) |
+| **Serialies**            | Java Deserialization & File Read | [→ Read](./web/Serialies/) |
 
 ## OSINT Challenges 🕵️
 
